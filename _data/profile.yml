@@ -1,6 +1,6 @@
 primary_name: "Doro"
 secondary_name: ""
-navbar_name: "Doro"
+navbar_name: "Doro's Space"
 
 positions:
 # - name: Title or Position
@@ -43,8 +43,10 @@ short_bio: >-
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  Doro tearfully eating an orange.
 
 education:
 # - name: Massachusetts Institute of Technology
